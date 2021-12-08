@@ -19,7 +19,7 @@ The data includes **3276 water** samples and **10 features** , incl.
 
 | Model               | Score  |
 | ------------------- | ------ |
-| Random Forest       | 100.00 |
-| Decision Tree       | 100.00 |
-| KNN                 | 80.98  |
-| Logistic Regression | 61.02  |
+| Random Forest       |        |
+| Decision Tree       |        |
+| KNN                 |        |
+| Logistic Regression |        |
